@@ -1,3 +1,3 @@
-workspaces { name = "gha-chapter5-1" }
+workspaces { name = "api" }
 hostname     = "app.terraform.io"
 organization = "fabriciolfj"
