@@ -6,3 +6,4 @@
   - AWS_SECRET_ACCESS_KEY
   - region
   - environment
+- no arquivo gha.hcl, precisamos colocar a origanização configurada no site app.terraform.io
